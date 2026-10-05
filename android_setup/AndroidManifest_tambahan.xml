@@ -1,0 +1,6 @@
+<!-- Tempel 4 baris ini di android/app/src/main/AndroidManifest.xml,
+     DI ATAS tag <application ...> (di dalam <manifest>) -->
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
